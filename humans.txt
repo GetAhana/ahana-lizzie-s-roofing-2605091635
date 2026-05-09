@@ -1,0 +1,10 @@
+/* TEAM */
+Business: Lizz Roof
+Contact: lizz@lroof.com
+Site: https://ahana-lizzie-s-roofing-2605091616.netlify.app
+
+/* THANKS */
+Templates: Ahana starter bundle
+
+/* STANDARDS */
+Language: en
